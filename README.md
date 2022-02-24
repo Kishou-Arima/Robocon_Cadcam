@@ -1,5 +1,5 @@
 
-![Robot Cat illustration Smart Technology logo](https://user-images.githubusercontent.com/68693240/155540751-bb95b98b-39d2-427c-9cc5-7064256d072a.png)
+![Robot Cat illustration Smart Technology logo (1)](https://user-images.githubusercontent.com/68693240/155540965-7ea4de8f-505b-444b-8d7d-6edb94ad7e20.png)
 
 
 # CAD/CAM Models for Robocon
