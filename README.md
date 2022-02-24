@@ -1,3 +1,7 @@
+
+![Robot Cat illustration Smart Technology logo](https://user-images.githubusercontent.com/68693240/155540751-bb95b98b-39d2-427c-9cc5-7064256d072a.png)
+
+
 # CAD/CAM Models for Robocon
 This project is made during DD ROBOCON INDIA 2022
 
